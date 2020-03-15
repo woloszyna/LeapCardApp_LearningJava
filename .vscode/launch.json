@@ -1,0 +1,54 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Store",
+            "request": "launch",
+            "mainClass": "classes.Store"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorldWithAssertion",
+            "request": "launch",
+            "mainClass": "Classes.HelloWorldWithAssertion"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Store",
+            "request": "launch",
+            "mainClass": "Classes.Store"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lesson3ManipulatingVariables",
+            "request": "launch",
+            "mainClass": "Classes.Lesson3ManipulatingVariables"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lesson4IntroductionToClasses",
+            "request": "launch",
+            "mainClass": "Classes.Lesson4IntroductionToClasses"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lesson1HelloWorld",
+            "request": "launch",
+            "mainClass": "Classes.Lesson1HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lesson1HelloWorld",
+            "request": "launch",
+            "mainClass": "Classes.Lesson1HelloWorld",
+            "projectName": "LearningJava_68cbba6e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorldWithAssertion",
+            "request": "launch",
+            "mainClass": "Classes.HelloWorldWithAssertion",
+            "projectName": "LearningJava_68cbba6e"
+        }
+    ]
+}
